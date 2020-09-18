@@ -1,6 +1,6 @@
 # Dayyan Smith
 ## Machine Learning Engineer
 
-- 🔭  I’m currently working on my master thesis @SAP
-- 🌱  I’m learning about domain adaptation in computer vision
-- 📫  Find me on [Twitter](https://twitter.com/dayyansmith)
+- 🔭 &nbsp; I’m currently working on my master thesis @SAP
+- 🌱 &nbsp; I’m learning about domain adaptation in computer vision
+- 📫 &nbsp; Find me on [Twitter](https://twitter.com/dayyansmith)
